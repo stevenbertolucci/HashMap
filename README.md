@@ -3,6 +3,7 @@ HashMap Implementation of Hash Map using Python 3
 #
 
 Part 1 - Summary and Specific Instructions
+
     1. Implement the HashMap class by completing the provided skeleton code in the file
     hash_map_sc.py. Once completed, your implementation will include the following
     methods:
