@@ -1,5 +1,5 @@
 # 
-HashMap Implementation of Hash Map using Python 3
+HashMap Implementation using Python 3
 #
 
 Part 1 - Summary and Specific Instructions
